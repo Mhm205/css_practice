@@ -1,0 +1,41 @@
+body{
+    background-image: url(../img/Screenshot\ 2023-06-17\ 111405.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-style: italic;
+}
+
+.menu{
+    background-color: aqua;
+    padding: 1rem;
+}
+
+.menu a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+
+}
+.menu a:hover{
+    color: rgb(83, 126, 18);
+
+}
+.contents{
+    background-color: burlywood;
+
+}
+.table h2{
+    font-style: italic;
+}
+.contents p{
+    padding: 1rem;
+
+}
+table, th, td{
+    border: 1px solid black;
+    
+}
